@@ -14,14 +14,27 @@ if name:
 	print("your name is : " , name)
 	print('hello')
 	print('tech blazers')
-age =int ( input("Enter your name : "))
+new_age =int ( input("Enter your age : "))
 
-if age >= 10:
+if new_age >= 0:
 	print("you are eligible to make your own decisions" )
 	print('hello')
 	print('tech blazers')
 else:
 	print("you are a child")
+if new_age >= 18 and new_age <= 45:
+	print("you are eligible to make your own decisions" )
+	print('hello')
+	print('tech blazers')
+elif new_age >= 10 and new_age <= 19:
+	print("you are a teenager" )
+	print('hello')
+	print('tech blazers')
+elif new_age > 0 and new_age < 13:
+	print('you are still a child')
+else:
+	print("you are still my child")
+
 
 
 
