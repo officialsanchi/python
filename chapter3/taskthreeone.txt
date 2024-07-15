@@ -1,0 +1,5 @@
+validatinguserinput = 0
+score = int (input("Enter number other than 1 or 2 :")):
+while score != 1 or 2 :
+	validatinguserinput= validatinguserinput + 1
+	print (validatinguserinput)
