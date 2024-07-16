@@ -4,6 +4,6 @@ num3 = 2
 for count in range (12):
 	number = number +1
 	sum = num1+2*number
-	print(num1, "+", num3, "*", number, "=" , sum )
+	print(" 6 ", "-", "9", "+", "2", "*" , number, "=" , sum )
 	
 	
