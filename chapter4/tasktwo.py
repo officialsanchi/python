@@ -1,0 +1,1 @@
+function_call_stack, is saying that the object which enter last object that goes in comes first (LIFO, Last_in first out)

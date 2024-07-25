@@ -1,0 +1,1 @@
+an else clause or statement happens when the if and elif statement are not true

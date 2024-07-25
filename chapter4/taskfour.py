@@ -1,0 +1,1 @@
+each number/ values in the list will be multiply by it self
