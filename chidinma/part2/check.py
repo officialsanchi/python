@@ -1,4 +1,4 @@
-index = 1000
+index = 2000
 for count in range(index, 3000):
 	if count % 2 == 0:
 		value1 = count % 10
@@ -9,11 +9,6 @@ for count in range(index, 3000):
 		value6 = value4 // 10
 
 		if value1 %2 == 0 and value3 %2 == 0 and value5 %2 == 0 and value6 %2 == 0:
-			print(count, end= '  ')
+			print(count, end= ' , ')
 
-	
-	
-	
-	
-		
 	

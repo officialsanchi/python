@@ -1,7 +1,6 @@
 def display (number):
-	if display %2 == 0:
-		return even
+	if number %2 == 0:
+		return "it is an even number"
 	else:
-		return odd
-
-print(display(number [3]))
+		return "it is an odd number"
+print(display(6))
